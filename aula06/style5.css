@@ -1,0 +1,23 @@
+img {
+ border-radius: 200px;
+}
+
+body {
+  text-align: center; 
+}
+
+h2  {
+    text-align: left;
+}
+
+p {
+    text-align: left;
+}
+
+li{
+    text-align: left;
+}
+
+body {
+    background-image: url("");
+}
