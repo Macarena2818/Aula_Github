@@ -1,0 +1,22 @@
+header {
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+
+nav { 
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+
+li {
+    list-style: none;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.borda {
+    border: 1px solid black;
+    border-radius: 40px;
+}
